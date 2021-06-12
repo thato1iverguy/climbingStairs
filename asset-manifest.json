@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/climbingStairs/static/css/main.db370851.chunk.css",
+    "main.js": "/climbingStairs/static/js/main.ad8636a0.chunk.js",
+    "main.js.map": "/climbingStairs/static/js/main.ad8636a0.chunk.js.map",
+    "runtime-main.js": "/climbingStairs/static/js/runtime-main.5f5af991.js",
+    "runtime-main.js.map": "/climbingStairs/static/js/runtime-main.5f5af991.js.map",
+    "static/js/2.98f71da2.chunk.js": "/climbingStairs/static/js/2.98f71da2.chunk.js",
+    "static/js/2.98f71da2.chunk.js.map": "/climbingStairs/static/js/2.98f71da2.chunk.js.map",
+    "static/js/3.8756b3d9.chunk.js": "/climbingStairs/static/js/3.8756b3d9.chunk.js",
+    "static/js/3.8756b3d9.chunk.js.map": "/climbingStairs/static/js/3.8756b3d9.chunk.js.map",
+    "index.html": "/climbingStairs/index.html",
+    "static/css/main.db370851.chunk.css.map": "/climbingStairs/static/css/main.db370851.chunk.css.map",
+    "static/js/2.98f71da2.chunk.js.LICENSE.txt": "/climbingStairs/static/js/2.98f71da2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/climbingStairs/static/media/background.f8caf7be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f5af991.js",
+    "static/js/2.98f71da2.chunk.js",
+    "static/css/main.db370851.chunk.css",
+    "static/js/main.ad8636a0.chunk.js"
+  ]
+}
